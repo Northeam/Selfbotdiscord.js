@@ -1,7 +1,9 @@
 # Selfbotdiscord.js
 Ps : renommez le dossier Date en Data pour le bon fonctionnement
 Étape 1: Après l'installation des pkg
+
 Étape 2 : Allez dans /config/config1 et remplissez les lignes avec votre token et le prefixe (pour prendre votre token
+
 Étape 3: Lancer le self et amuser vous avec
 
 
